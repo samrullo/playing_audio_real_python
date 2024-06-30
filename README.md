@@ -1,0 +1,8 @@
+- **playsound**
+- **simpleaudio**
+- **winsound** : only supports wav files
+- **python-sounddevice** : cross platform
+- **pydub** : play and convert any file format supported by ffmeg
+- **pyaudio** : plays and records byte objects. tighter control on the audio input and output
+- **wavio** : converts between wav and numpy arrays
+- **soundfile** : can't play back but can convert any type supported by libsndfile

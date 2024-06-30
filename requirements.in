@@ -1,0 +1,9 @@
+scipy
+simpleaudio
+sounddevice
+soundfile
+pydub
+pandas
+ffmpeg-python
+pyaudio
+wavio
